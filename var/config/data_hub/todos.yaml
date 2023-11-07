@@ -1,0 +1,13 @@
+pimcore_data_hub:
+    configurations:
+        todos:
+            general:
+                type: dataImporterDataObject
+                path: null
+                name: todos
+                modificationDate: 1699363368
+                createDate: 1699363368
+            workspaces: {  }
+            permissions:
+                user: {  }
+                role: {  }

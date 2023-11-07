@@ -1,0 +1,10 @@
+{% extends 'layout.html.twig' %}
+{% block content %}
+    <ul class="list-group">
+        {% for todo in todos %}
+            <li class="list-group-item">
+                {{ todo.title }} - {{ todo.completed }}
+            </li>
+        {% endfor %}
+    </ul>                                                                                                          												</div> #}
+{% endblock %}

@@ -1,0 +1,13 @@
+pimcore_data_hub:
+    configurations:
+        airports:
+            general:
+                type: dataImporterDataObject
+                path: null
+                name: airports
+                modificationDate: 1699302641
+                createDate: 1699302641
+            workspaces: {  }
+            permissions:
+                user: {  }
+                role: {  }

@@ -134,3 +134,6 @@ framework:
 #         name: ''
 #         email: ''
 
+pimcore_data_importer:
+    messenger_queue_processing:
+        activated: true
